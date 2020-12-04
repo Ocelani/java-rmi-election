@@ -11,14 +11,14 @@ Desenvolver um sistema para o serviço Election utilizando o Java RMI.
 ### 1. Requisitos
 
 #### 1.1. Funcionais
-- [ ] **RF.01** - Os registros devem permanecer consistentes para acesso simultâneo de vários clientes.
-- [ ] **RF.02** - Todos os votos devem ser armazenados com segurança, mesmo quando o processo no servidor falhar.
-- [ ] **RF.03** - Os **identificadores de eleitor** devem ser gerados a partir de uma **função MD5** do **nome completo do eleitor**.
+- [X] **RF.01** - Os registros devem permanecer consistentes para acesso simultâneo de vários clientes.
+- [X] **RF.02** - Todos os votos devem ser armazenados com segurança, mesmo quando o processo no servidor falhar.
+- [X] **RF.03** - Os **identificadores de eleitor** devem ser gerados a partir de uma **função MD5** do **nome completo do eleitor**.
 
 
 #### 1.2. Não funcionais
-- [ ] **RNF.01** - Utilizar a tecnologia Java RMI com semântica at-most-once.
-- [ ] **RNF.02** - Implementar um mecanismo de recuperação de falha no cliente que consiga obter uma semântica exactly-once para o caso do serviço ser interrompido por um tempo inferior a 30 segundos.
+- [X] **RNF.01** - Utilizar a tecnologia Java RMI com semântica at-most-once.
+- [X] **RNF.02** - Implementar um mecanismo de recuperação de falha no cliente que consiga obter uma semântica exactly-once para o caso do serviço ser interrompido por um tempo inferior a 30 segundos.
 
 
 ### 2. Informações
