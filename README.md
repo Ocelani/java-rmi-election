@@ -35,7 +35,7 @@ Possui dois parâmetros fornecidos pelo cliente:
 
 ##### - result ( )
 Possui dois parâmetros fornecidos pelo servidor para o cliente:
-- <u>**Nome** de um Candidato</u> : *String*
+- <u>Nome de um Candidato</u> : *String*
 - <u>Votos desse Candidato</u> : *Int*
 
 
