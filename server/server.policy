@@ -1,0 +1,3 @@
+grant codeBase "file:/home/election/src/" {
+    permission java.security.AllPermission;
+};

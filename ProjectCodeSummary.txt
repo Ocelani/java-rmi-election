@@ -1,0 +1,15 @@
+CODE TIME PROJECT SUMMARY     (Last updated on Sun, Sep 6th 11:31pm)
+
+election-rmi-Ocelani             Aug 30th, 2020 to Sep 5th, 2020
+-----------------------------------------------------------------
+Code time                   :                            7.7 hrs
+Keystrokes                  :                              3,937
+Commits                     :                                  3
+Files changed               :                              1,150
+Insertions                  :                              3,335
+Deletions                   :                              1,679
+-----------------------------------------------------------------
+
+MEASURED WITH CODE TIME EXTENSION FOR VS CODE
+© 2020, Software. All Rights Reserved.
+https://www.software.com/

@@ -1,0 +1,13 @@
+{
+  "editor_seconds": 8040,
+  "session_seconds": 5281,
+  "file_seconds": 3323,
+  "day": "2020-09-06",
+  "project": {
+    "directory": "/Users/celani/Dev/java/election-rmi-Ocelani",
+    "name": "election-rmi-Ocelani",
+    "email": "celani.silva@gmail.com",
+    "tag": "heads/client",
+    "identifier": "https://github.com/PUC-ES-LDAMD/election-rmi-Ocelani.git"
+  }
+}
